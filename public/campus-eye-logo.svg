@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80">
+  <rect width="360" height="80" rx="14" fill="#0b1120"/>
+
+  <g transform="translate(18 12)">
+    <path
+      d="M0 28C10 12 23 6 40 6s30 6 40 22c-10 16-23 22-40 22S10 44 0 28Z"
+      fill="none"
+      stroke="#38bdf8"
+      stroke-width="5"
+    />
+    <circle cx="40" cy="28" r="11" fill="#38bdf8"/>
+    <circle cx="40" cy="28" r="5" fill="#0b1120"/>
+  </g>
+
+  <text
+    x="105"
+    y="39"
+    fill="#f8fafc"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >
+    CAMPUS EYE
+  </text>
+
+  <text
+    x="107"
+    y="59"
+    fill="#94a3b8"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10"
+    letter-spacing="2"
+  >
+    CAMPUS SECURITY PLATFORM
+  </text>
+</svg>
